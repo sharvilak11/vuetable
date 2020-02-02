@@ -1,6 +1,8 @@
 # vuetable
 A table component written in vue which can be used with pagination via api or through data in order to show the results in the form of table.
 
+:warning: **Currently under Development. Documentation coming soon!**
+
 ## Project setup
 ```
 npm install
